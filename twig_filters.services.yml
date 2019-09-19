@@ -1,0 +1,5 @@
+services:
+  truncatehtml.twig_extension:
+    class: Drupal\twig_filters\TwigExtension\TruncateHtmlExtension
+    tags:
+      - { name: twig.extension }

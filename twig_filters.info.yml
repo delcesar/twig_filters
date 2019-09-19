@@ -1,0 +1,6 @@
+name: Custom Twig Filters
+description: 'Provide custom twig filters for Drupal 8: truncatehtml, ...'
+type: module
+core: '8.x'
+package: Custom
+version: '8.x-1.0'
