@@ -1,4 +1,4 @@
-# Twig_Filters in Drupal8
+# Twig_Filters
 
 twig_filters is a module for Drupal 8 which provides custom Twig filters.
 
